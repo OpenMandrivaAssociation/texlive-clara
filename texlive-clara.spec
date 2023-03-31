@@ -1,6 +1,6 @@
 Name:		texlive-clara
 Version:	54512
-Release:	1
+Release:	2
 Summary:	A serif font family
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/clara
