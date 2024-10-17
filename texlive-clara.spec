@@ -3,7 +3,7 @@ Version:	54512
 Release:	2
 Summary:	A serif font family
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/clara
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/clara
 License:	ofl gpl2+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/clara.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/clara.doc.r%{version}.tar.xz
